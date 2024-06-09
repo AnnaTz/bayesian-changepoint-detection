@@ -1,0 +1,8 @@
+rpy2==3.5.11 
+numpy==1.25.2 
+matplotlib-base==3.8.1  
+pymc==5.9.2 
+seaborn==0.13.0  
+arviz==0.16.1 
+scipy==1.11.3 
+ipython==8.17.2  
